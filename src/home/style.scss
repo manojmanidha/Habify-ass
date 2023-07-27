@@ -1,0 +1,160 @@
+.container1{
+  position: absolute;
+  left: 50%;
+  top: 150%;
+  transform: translate(-50%, -50%);
+  background-color:white;
+}
+
+p{
+    font-size: medium;
+}
+
+.page{
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+}
+
+.name{
+    display: flex;
+    flex-direction: row;
+    column-gap: 250px;
+}
+.first{
+    border-bottom: 1px solid wheat;
+}
+.last{
+    border-bottom: 1px solid wheat;
+    
+}
+
+.span{
+    opacity: 50%;
+    font-size: small;
+}
+.padd{
+    padding-top: 5px;
+    padding-bottom: 15px;
+    font-size: medium;
+}
+.padd1{
+    padding-top: 5px;
+    padding-bottom: 15px;
+    font-size: larger;
+}
+.first1{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid wheat;
+}
+.buttg{
+    background-color: rgb(129, 214, 129);
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-left: 5px;
+    padding-right: 5px;
+    color: white;
+    border: none;
+} 
+.privacy{
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+    column-gap: 2px;
+}
+.span2{
+    font-size: small;
+}
+.buttele{
+    display: flex;
+    flex-direction:row;
+    column-gap: 6px;
+}
+.elemetC{
+    display: flex;
+    flex-direction: row;
+    column-gap: 50px;
+}
+.elemetC{
+    padding-top: 10px; 
+}
+.buttele{
+    border: 1px solid rgb(182, 179, 179);
+    padding: 5px;
+}
+.icon{
+    background-color: rgb(6, 6, 43);
+    color: white;
+}
+.icon1{
+    background-color: rgb(102, 173, 227);
+}
+.icon2{
+    background-color: aliceblue;
+}
+.optinalBot1{
+    border-bottom: 1px solid wheat;
+}
+.image{
+    width: 60px;
+    height: 60px;
+}
+.icon11{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 10px;
+}
+.survey1{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+.survey3{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid wheat;
+}
+.catsec{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.bucat{
+    display: flex;
+    flex-direction: row;
+    column-gap: 5px;
+    border: 1px solid rgb(201, 198, 198);
+    padding: 5px;
+    width: 140px;
+}
+.cat{
+    border-bottom: 1px solid wheat;
+}
+.last11{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+.terms{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    column-gap: 5px;
+}
+.buttonCreate{
+    width: 800px;
+    background-color: rgb(174, 23, 23);
+    color: white;
+    border: none;
+}

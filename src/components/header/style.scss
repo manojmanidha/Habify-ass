@@ -1,0 +1,14 @@
+.header{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: end;
+    column-gap: 5px;
+}
+.container{
+    text-align: right;
+    padding:50px;
+}
+button{
+    padding: 5px;
+}

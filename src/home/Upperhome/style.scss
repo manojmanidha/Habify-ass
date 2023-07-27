@@ -1,0 +1,33 @@
+.container2{
+    position: absolute;
+    left: 50%;
+    top: 22%;
+    transform: translate(-50%, -50%);
+    background-color:rgb(207, 200, 200);
+    width: 860px;
+    height: 150px;
+    align-items: center;
+    justify-content: center;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    padding-top: 15px;
+  }
+  .heding{
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+  .heding1{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .starim{
+    width: 45px;
+    height: 45px;
+  }
+  .span{
+    text-align: center;
+  }
